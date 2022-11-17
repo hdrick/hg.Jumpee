@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class JumpeeApplication {
-// test
+// test123
 	public static void main(String[] args) {
 		SpringApplication.run(JumpeeApplication.class, args);
 	}
